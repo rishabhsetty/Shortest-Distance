@@ -1,0 +1,113 @@
+City 1,City 2,Distance
+Alabama,Mississippi,227
+Alabama,Tennessee,234
+Alabama,Florida,431
+Alabama,Georgia,6450
+Arizona,Nevada,496
+Arizona,New Mexico,382
+Arizona,Utah,505
+Arizona,California,474
+Arizona,Colorado,547
+Arkansas,Oklahoma,286
+Arkansas,Tennessee,349
+Arkansas,Texas,470
+Arkansas,Louisiana,337
+Arkansas,Mississippi,239
+Arkansas,Missouri,234
+California,Oregon,595
+California,Nevada,235
+Colorado,New Mexico,267
+Colorado,Oklahoma,533
+Colorado,Utah,333
+Colorado,Wyoming,121
+Colorado,Kansas,542
+Colorado,Nebraska,487
+Connecticut,New York,100
+Connecticut,Rhode Island,65
+Connecticut,Massachusetts,80
+Delaware,New Jersey,87
+Delaware,Pennsylvania,105
+Delaware,Maryland,53
+Florida,Georgia,6541
+Georgia,North Carolina,6001
+Georgia,South Carolina,6182
+Georgia,Tennessee,6256
+Idaho,Utah,227
+Idaho,Washington,431
+Idaho,Wyoming,500
+Idaho,Montana,334
+Idaho,Nevada,321
+Idaho,Oregon,455
+Illinois,Kentucky,279
+Illinois,Missouri,160
+Illinois,Wisconsin,279
+Illinois,Indiana,186
+Illinois,Iowa,242
+Illinois,Michigan,333
+Indiana,Michigan,221
+Indiana,Ohio,168
+Indiana,Kentucky,129
+Iowa,Nebraska,170
+Iowa,South Dakota,391
+Iowa,Wisconsin,288
+Iowa,Minnesota,308
+Iowa,Missouri,222
+Kansas,Nebraska,134
+Kansas,Oklahoma,267
+Kansas,Missouri,191
+Kentucky,Tennessee,185
+Kentucky,Virginia,357
+Kentucky,West Virginia,220
+Kentucky,Missouri,396
+Kentucky,Ohio,158
+Louisiana,Texas,501
+Louisiana,Mississippi,141
+Maine,New Hampshire,119
+Maryland,Virginia,168
+Maryland,West Virginia,237
+Maryland,Pennsylvania,91
+Massachusetts,New York,179
+Massachusetts,Rhode Island,40
+Massachusetts,Vermont,142
+Massachusetts,New Hampshire,55
+Michigan,Ohio,208
+Michigan,Wisconsin,225
+Michigan,Minnesota,545
+Minnesota,North Dakota,300
+Minnesota,South Dakota,301
+Minnesota,Wisconsin,323
+Mississippi,Tennessee,328
+Missouri,Nebraska,286
+Missouri,Oklahoma,365
+Missouri,Tennessee,378
+Montana,South Dakota,493
+Montana,Wyoming,493
+Montana,North Dakota,418
+Nebraska,South Dakota,308
+Nebraska,Wyoming,424
+Nevada,Oregon,490
+Nevada,Utah,276
+New Hampshire,Vermont,89
+New Jersey,Pennsylvania,132
+New Jersey,New York,48
+New Mexico,Oklahoma,473
+New Mexico,Texas,456
+New Mexico,Utah,476
+New York,Pennsylvania,154
+New York,Rhode Island,155
+New York,Vermont,256
+North Carolina,Tennessee,428
+North Carolina,Virginia,93
+North Carolina,South Carolina,184
+North Dakota,South Dakota,170
+Ohio,Pennsylvania,324
+Ohio,West Virginia,155
+Oklahoma,Texas,277
+Oregon,Washington,224
+Pennsylvania,West Virginia,245
+South Dakota,Wyoming,318
+Tennessee,Virginia,443
+Utah,Wyoming,370
+Virginia,West Virginia,158
+Alaska,Alaska,0
+Hawaii,Hawaii,0

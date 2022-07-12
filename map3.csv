@@ -1,0 +1,29 @@
+City 1,City 2,Distance
+Ann Arbor,Flint,56
+Ann Arbor,Greenville,128
+Ann Arbor,Lansing,66
+Ann Arbor,Kalamazoo,99
+Ann Arbor,Warren,50
+Ann Arbor,Detroit,42
+Ann Arbor,Grand Rapids,134
+Flint,Greenville,109
+Flint,Lansing,52
+Flint,Kalamazoo,130
+Flint,Warren,63
+Flint,Detroit,69
+Flint,Grand Rapids,114
+Greenville,Lansing,61
+Greenville,Kalamazoo,83
+Greenville,Warren,149
+Greenville,Traverse City,141
+Greenville,Grand Rapids,34
+Lansing,Kalamazoo,73
+Lansing,Warren,86
+Lansing,Detroit,92
+Lansing,Grand Rapids,68
+Kalamazoo,Warren,145
+Kalamazoo,Detroit,139
+Kalamazoo,Grand Rapids,50
+Warren,Detroit,13
+Traverse City,Grand Rapids,142
+Marquette,Marquette,0
