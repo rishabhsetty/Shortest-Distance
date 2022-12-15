@@ -5,25 +5,7 @@ Created on Thu Dec  2 17:44:56 2021
 
 @author: Setty
 """
-###########################################################
 
-    #  Computer Project #11
-
-    #
-
-    #  Multiple functions to retrive two matrices and input them in a Class
-
-    #    user inputs a series of destinations and outputs the total distance and shortest route
-    #   
-
-    #    loops until user enters q to quit
-
-    # 
-
-    #       
-    
-
-    ###########################################################"""
 import csv
 from place import Place
 
@@ -31,7 +13,7 @@ def apsp(g):
     '''All-Pairs Shortest Paths using the Floyd-Warshall algorithm.'''
     
 
-    INFINITE = 2**63-1  # a really big number (the biggest int for a 64-bit machine)
+    INFINITE = 2**63-1  
 
     # Initialize paths with paths for adjacent nodes
     paths = [[0 for j in range(len(g))] for i in range(len(g))]
